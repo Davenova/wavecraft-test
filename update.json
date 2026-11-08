@@ -1,7 +1,7 @@
 {
-  "versionCode": 172,
-  "versionName": "5.1.0-feat21a",
-  "sha256": "01CDABEFEA47644D94BD922F0C6423FBB662195CCADFC6D97178D46FED359D4B",
-  "apk": "https://raw.githubusercontent.com/Davenova/wavecraft-test/main/5.1.0-feat21a.apk",
+  "versionCode": 173,
+  "versionName": "5.1.0-feat21b",
+  "sha256": "3899D3E9396D6E0EF590CB7C2887302CC3AD71D34E39ED7A92F9B618BD65ABE8",
+  "apk": "https://raw.githubusercontent.com/Davenova/wavecraft-test/main/app-release.apk",
   "notes": "update"
 }
